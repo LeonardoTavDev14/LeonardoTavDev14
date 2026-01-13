@@ -28,7 +28,8 @@
 
 ###
 
-<h4 align="left">👩‍💻 Tenho 21 anos e sou estudante do 8º semestre de Engenharia de Software.<br>Atualmente estou em busca da minha primeira oportunidade como desenvolvedor, com muita vontade de aprender, crescer e contribuir em projetos reais.<br>Apaixonado por desenvolvimento web e sempre em busca de novos desafios e aprendizados.</h4>
+<h4 align="left">👩‍💻 Engenheiro de Software recém-formado, em busca de desafios na área de desenvolvimento. Minha maior afinidade e especialização estão no Back-end, onde aplico TypeScript, Node.js e MongoDB para construir arquiteturas robustas e escaláveis.
+Contudo, não sou um desenvolvedor limitado a uma única ponta: possuo domínio prático de Front-end (React.js, Vite). Essa visão Full Stack me permite desenhar APIs muito mais assertivas, pois entendo exatamente as necessidades do lado do cliente. Busco uma equipe onde eu possa focar na inteligência do sistema, mas oferecendo a autonomia de quem compreende o projeto de ponta a ponta.</h4>
 
 ###
 
