@@ -33,7 +33,7 @@ Contudo, não sou um desenvolvedor limitado a uma única ponta: possuo domínio 
 
 ###
 
-<h4 align="left">Sou o Leonardo, do Brasil 🇧🇷<br><br>- 🔭 Em busca da minha primeira oportunidade como desenvolvedor.  <br>- 📚 Estou aprendendo TypeScript, Node.js, Express e MongoDB.  <br>- ⚡ No meu tempo livre, gosto de explorar novas tecnologias, criar projetos pessoais e assistir conteúdos de tecnologia no YouTube.</h4>
+<h4 align="left">Sou o Leonardo, do Brasil 🇧🇷<br><br>- 🔭 Em busca da minha primeira oportunidade como desenvolvedor junior.  <br>- 📚 Estou aprendendo TypeScript, Node.js, Express, NestJs e MongoDB.  <br>- ⚡ No meu tempo livre, gosto de explorar novas tecnologias, criar projetos pessoais e assistir conteúdos de tecnologia no YouTube.</h4>
 
 ###
 
