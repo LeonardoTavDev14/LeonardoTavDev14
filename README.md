@@ -73,7 +73,3 @@ Contudo, não sou um desenvolvedor limitado a uma única ponta: possuo domínio 
 
 ###
 
-<h4 align="left">🔥   Meu status:</h4>
-
-###
-
